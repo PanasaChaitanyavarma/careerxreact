@@ -1,6 +1,6 @@
 {
   "name": "careerxreact",
-   "homepage": "https://github.com/PanasaChaitanyavarma/careerxreact",
+  "homepage": "https://github.com/PanasaChaitanyavarma/careerxreact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
