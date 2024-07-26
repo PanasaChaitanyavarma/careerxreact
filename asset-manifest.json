@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PanasaChaitanyavarma/Career_X_react/static/css/main.76940984.css",
+    "main.js": "/PanasaChaitanyavarma/Career_X_react/static/js/main.ec9e599c.js",
+    "index.html": "/PanasaChaitanyavarma/Career_X_react/index.html",
+    "main.76940984.css.map": "/PanasaChaitanyavarma/Career_X_react/static/css/main.76940984.css.map",
+    "main.ec9e599c.js.map": "/PanasaChaitanyavarma/Career_X_react/static/js/main.ec9e599c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76940984.css",
+    "static/js/main.ec9e599c.js"
+  ]
+}
